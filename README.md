@@ -14,7 +14,7 @@ Contributors:
 N/A
 
 Group members:
-N/A
+William Elbert
 
 Open issues and bugs:
 In progress...
